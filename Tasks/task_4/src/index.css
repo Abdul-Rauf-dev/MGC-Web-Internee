@@ -1,0 +1,11 @@
+
+.boxs-container{
+    display: flex;
+    background-color: antiquewhite;
+    gap: 10px;
+}
+
+.box{
+    
+    border: 1px solid black;
+}
